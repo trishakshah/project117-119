@@ -1,0 +1,45 @@
+body{
+    font-family: 'Bubblegum Sans', cursive;
+    background-color: rgb(194, 232, 245);
+    color:rgb(105, 188, 240);
+}
+
+.heading {
+    background-color: lightskyblue;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius:25px;
+    width:fit-content;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 50px;
+}
+
+.subheading{
+    font-size:30px;
+}
+
+.results{
+    font-size: 25px;
+}
+
+.abc{
+    margin-top: 500px;
+}
+
+.footer{
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    background-color: lightskyblue;
+    color: white;
+    line-height: 3;
+    width: 100%;
+    font-size: medium;
+}
+
+canvas{
+    border-radius: 25px;
+    box-shadow: 10px 10px 20px white;
+}
